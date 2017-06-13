@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IMSS Shutdown Manager", "IMSS Shutdown Manager\IMSS Shutdown Manager.vbproj", "{EC54D05F-29AB-41E0-AD61-B4456ECE4801}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IMSS_OPER", "IMSS_OPER\IMSS_OPER.vcxproj", "{D02C04E8-E36E-439D-A790-1B851CFFFBD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC54D05F-29AB-41E0-AD61-B4456ECE4801}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{EC54D05F-29AB-41E0-AD61-B4456ECE4801}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{EC54D05F-29AB-41E0-AD61-B4456ECE4801}.Debug|Win32.ActiveCfg = Debug|x86
+		{EC54D05F-29AB-41E0-AD61-B4456ECE4801}.Debug|x86.ActiveCfg = Debug|x86
+		{EC54D05F-29AB-41E0-AD61-B4456ECE4801}.Debug|x86.Build.0 = Debug|x86
+		{EC54D05F-29AB-41E0-AD61-B4456ECE4801}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{EC54D05F-29AB-41E0-AD61-B4456ECE4801}.Release|Mixed Platforms.Build.0 = Release|x86
+		{EC54D05F-29AB-41E0-AD61-B4456ECE4801}.Release|Win32.ActiveCfg = Release|x86
+		{EC54D05F-29AB-41E0-AD61-B4456ECE4801}.Release|x86.ActiveCfg = Release|x86
+		{EC54D05F-29AB-41E0-AD61-B4456ECE4801}.Release|x86.Build.0 = Release|x86
+		{D02C04E8-E36E-439D-A790-1B851CFFFBD9}.Debug|Mixed Platforms.ActiveCfg = Release|Win32
+		{D02C04E8-E36E-439D-A790-1B851CFFFBD9}.Debug|Mixed Platforms.Build.0 = Release|Win32
+		{D02C04E8-E36E-439D-A790-1B851CFFFBD9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D02C04E8-E36E-439D-A790-1B851CFFFBD9}.Debug|Win32.Build.0 = Debug|Win32
+		{D02C04E8-E36E-439D-A790-1B851CFFFBD9}.Debug|x86.ActiveCfg = Debug|Win32
+		{D02C04E8-E36E-439D-A790-1B851CFFFBD9}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{D02C04E8-E36E-439D-A790-1B851CFFFBD9}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{D02C04E8-E36E-439D-A790-1B851CFFFBD9}.Release|Win32.ActiveCfg = Release|Win32
+		{D02C04E8-E36E-439D-A790-1B851CFFFBD9}.Release|Win32.Build.0 = Release|Win32
+		{D02C04E8-E36E-439D-A790-1B851CFFFBD9}.Release|x86.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
